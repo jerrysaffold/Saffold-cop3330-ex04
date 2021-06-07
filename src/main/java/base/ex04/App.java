@@ -30,7 +30,7 @@ public class App {
         System.out.print("Enter a noun: ");
         String noun = input.nextLine();
 
-        System.out.print("Enter a verb:: ");
+        System.out.print("Enter a verb: ");
         String verb = input.nextLine();
 
         System.out.print("Enter an adjective: ");
